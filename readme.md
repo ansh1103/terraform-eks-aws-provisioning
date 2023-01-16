@@ -1,4 +1,5 @@
-image.png
+![image](https://user-images.githubusercontent.com/53502578/212658688-e0742476-2701-42ca-814d-1b9a4f163aff.png)
+
 Terraform Command Lines
 
 Terraform CLI tricks
